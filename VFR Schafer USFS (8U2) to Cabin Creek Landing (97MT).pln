@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 09 13T00:50:43|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=2004|
+         navdata=NAVIGRAPH|
+         simdata=NAVIGRAPH
+-->
+    <FlightPlan.FlightPlan>
+        <Title>97MT to 8U2</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>0</CruisingAlt>
+        <DepartureID>8U2</DepartureID>
+        <DepartureLLA>N48° 4' 46.61",W113° 14' 42.01",+004856.00</DepartureLLA>
+        <DestinationID>97MT</DestinationID>
+        <DestinationLLA>N48° 4' 46.61",W113° 14' 42.01",+004856.00</DestinationLLA>
+        <Descr>97MT, 8U2</Descr>
+        <DeparturePosition></DeparturePosition>
+        <DepartureName>Schafer USFS</DepartureName>
+        <DestinationName>Cabin Creek Landing</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="8U2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 46.61",W113° 14' 42.01",+004856.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 5' 56.22",W113° 17' 40.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 8' 33.80",W113° 24' 0.77",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 9' 21.63",W113° 31' 3.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 12' 9.75",W113° 33' 26.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 17' 3.61",W113° 36' 16.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 21' 32.35",W113° 38' 55.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 25' 18.05",W113° 45' 15.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 29' 19.87",W113° 51' 32.02",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 29' 50.17",W113° 59' 41.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 43' 59.96",W113° 45' 41.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 38.30",W113° 53' 31.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 54' 15.21",W113° 54' 30.00",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 53' 15.88",W114° 1' 56.18",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 50.16",W114° 5' 16.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 48' 58.07",W114° 12' 37.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 6.47",W114° 4' 29.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 30.12",W114° 8' 44.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 35.80",W114° 13' 18.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 16.21",W114° 20' 38.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 46' 14.42",W114° 18' 2.70",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 37' 42.14",W114° 8' 2.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 36' 15.53",W114° 10' 10.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 29' 23.14",W114° 6' 28.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="58S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 24' 28.87",W114° 17' 58.47",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>58S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 12' 4.81",W114° 36' 57.32",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="97MT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 26.18",W114° 40' 40.23",+003999.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>97MT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
